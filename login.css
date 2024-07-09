@@ -1,0 +1,222 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family:'Segoe UI';
+  }
+  body{
+   font-size: 120%;
+   background-image: url(motorcycle-luxury-items-close-up-headlights-shock-absorber-wheel-wing-toning.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   }
+   .Pogi {
+    width: 40%;
+   border-bottom: none;
+   border-radius:100px 100px;
+    background-color: #1f2753;
+    text-align: center;
+    border: 1px solid #ffff;
+ margin:80px auto 0; 
+ }
+ .blur{
+  backdrop-filter: blur(20px);
+  border: 1px solid #b9b9b9;
+  border-radius: 20px;
+  width: 600px;
+  height: 500px;
+  justify-content: center;
+  margin: 100px 450px 450px 450px;
+ }
+ .sign{
+  backdrop-filter: blur(30px);
+  border: 1px solid #b9b9b9;
+  border-radius: 20px;
+  width: 600px;
+  height: 700px;
+  justify-content: center;
+  margin: 100px 450px 450px 450px;
+ }
+ .blur h2{
+  text-align: center;
+ }
+ .TB{
+
+  text-align:center ;
+  margin-top: 50px;
+ }
+ .TB input {
+  outline: none;
+  color: #ffffff;
+   height: 30px;
+   width: 20rem;
+   padding: 5px 10px;
+   font-size: 16px;
+   border-radius:25px;
+   border: 1px solid rgb(255, 255, 255);
+   background-color: transparent;
+
+ }
+ ::placeholder
+ {
+   color:#ffffff;
+ }
+ .Pogi input{
+  margin: 5px;
+ }
+ h2
+ {
+ color: aliceblue;
+ }
+ .Login button
+ {
+  
+   border: 1px solid #ffffff;
+   color:#ffffff;
+   border-radius: 20px;
+   background-color: transparent;
+   width:335px;
+   height:40px;
+   font-size:16px;
+   margin-top:70px;
+   position: absolute;
+   left:135px;
+   bottom: 150px;
+   overflow: hidden;
+   
+ }
+ span{
+     background-color: #7161ff;
+     width: 0;
+     height: 100%;
+     border-radius: 20px;
+ position: inherit;
+ left:0;
+ bottom:0;
+     z-index: -1;
+     transition: 0.5s;
+ }
+ .Login  button:hover span{
+     width: 100%;
+     }
+     button:hover{
+     border: none;
+     }
+ 
+ .Login
+ {
+   margin: 0 auto;
+ }
+ .error {
+   width: 40%; 
+   margin: 0px auto; 
+   padding: 10px; 
+   border: 1px solid #a94442; 
+   color: #a94442; 
+   background: #e7e7e7; 
+   border-radius: 15px; 
+   text-align: center;
+   margin-top: 5px;
+
+ }
+ .success {
+   color: #3c763d; 
+   background: #ffffff; 
+   border: 1px solid #3c763d;
+   margin-bottom:300px;
+   position: fixed;
+   margin-left: 1000px;
+ }
+ p1
+ {
+ color:#000000;
+ position:absolute;
+ left:572px;
+ bottom: 120px;
+ }
+ a{
+   text-decoration: none;
+   color:#00ccff;
+ }
+ 
+.Show{
+margin-left: 130px;
+  display: block;
+  width: fit-content;
+ }
+ .Show label{
+  color: #ffffff;
+  font-size: 15px;
+ }
+h2{
+  color: #dfdfdf;
+  text-align: center;
+
+ }
+ .header{
+  width: 99.80%;
+  height: 10%;
+  border: 1px solid #00000000;
+  background-color: #090722;
+ }
+ .headerhome p{
+  color: #ffff;
+  border:1px soliid #000000;
+  background-color:transparent;
+ border-radius: 5px;
+ text-align: left;
+ position: absolute;
+ top:10px;
+ left: 5px;
+ }
+ .headerhome p1{
+font-weight:bold;
+  position: absolute;
+  top: 10px;
+  left:1450px;
+ }
+ .headerhome p1:hover{
+color: #00eeff;
+ }
+ li{
+  display:inline-block;
+  margin-inline: 15px;
+  }
+  nav a{
+    font-weight: bold;
+  }
+  .nav{
+      border: 1px solid #4e4e4e;
+      backdrop-filter: blur(30px);
+  }
+.nav a:hover{
+color:#00eeff;
+  }
+  .backlink{
+    position: absolute;
+ top:10px;
+ left: 30px;
+}
+.left{
+  color: #ffffff;
+}
+.Goback{
+  height: 25px;
+  position: absolute;
+  top:10px;
+ left: 5px;
+}
+.signup p{
+  color: #ffffff;
+  margin:225px 150px;
+}
+.signin p{
+  color: #ffffff;
+  margin:260px 180px;
+}
+
+
+
+
+ 
+
+ 

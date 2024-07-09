@@ -1,0 +1,90 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family:'Segoe UI';
+  }
+  body{
+  background-image: url(orange-yellow-cupboard.jpg);
+  background-size: cover;
+
+   font-size: 90%;
+   }
+  .TB{
+    margin: 10px;
+    text-align: center;
+  }
+  .TB input{
+    outline: none;
+    border: 1px solid #00000000;
+    border-radius: 10px;
+    height: 30px;
+    width: 300px;
+  }
+  .TB label{
+    color: #ffffff;
+    margin: 10px;
+  }
+  .heading h2{
+    text-align: center;
+    background-color: #185d6d;
+    color: aliceblue;
+  }
+  .Submitbtn input{
+    border: 1px solid #0000;
+    border-radius: 10px;
+    height: 30px;
+    width: 300px;
+    background-color: #092930;
+    color: #ffffff;
+  }
+  .Submitbtn input:hover{
+    background-color: #6ebdcf;
+  }
+  .quan input{
+    outline: none;
+    border: 1px solid #0000;
+    border-radius: 5px;
+  }
+  .quan{
+    text-align: center;
+  }
+  .Submitbtn{
+    text-align: center;
+  margin-bottom:10px ;
+  }
+  .Drop{
+    text-align: center;
+  }
+  .Drop select{
+    border: 1px solid #0000;
+    outline: none;
+    width:100px;
+    border-radius:10px;
+    font-size: 16px;
+  }
+  label{
+    color: #ffffff;
+    margin: 10px;
+      }
+      .quan input{
+        outline: none;
+        border: 1px solid #0000;
+        border-radius: 5px;
+      }
+      .quan{
+        text-align: center;
+      }.Grp{
+        border-radius:20px;
+        border: 1px solid #0000;
+        background-color: #e99516;
+        width: 600px;
+        margin: 0 auto;
+      }.heading p a{
+        color: aqua;
+        margin: 5px;
+       }
+       .heading a:hover{
+        color: #35aac4;
+        text-decoration: none;
+       }
+      

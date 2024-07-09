@@ -1,0 +1,65 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family:'Segoe UI';
+  }
+  body{
+ background-image: url(cupboards-geometrical-shapes-concept.jpg);
+ background-size: cover;
+ background-repeat: no-repeat;
+   }
+.header h2{
+    color: #f9f8ff;
+    text-align: center;
+   }
+   .header{
+    width: 100%;
+    height: 8%;
+    position: fixed;
+   }
+    th{
+      height: 30px;
+    }
+    tr{
+      font-size: small;
+    }
+    button[type="button"] {
+      height: 20px;
+      width:60px;
+      border-radius: 5px;
+      font-size: small;
+      margin-left: 95%;
+      color: rgb(255, 255, 255);
+      background-color: #51b3da;
+      border: 1px solid #ffffff;
+    }
+    .title h1{
+      color:#ffffff;
+      
+      text-align: center;
+      background-color: #FAA66A;
+    }
+    .title a{
+      position: absolute;
+      top: 10px;
+      left:10px;
+      color:#ffffff;
+    }
+    .title a:hover{
+      text-decoration: none;
+      color: #828ae5;
+    }
+    .modal-body input{
+border: 1px solid #0000;
+border-radius: 10px;
+
+  }
+  
+
+    
+
+    
+    
+
+
+    

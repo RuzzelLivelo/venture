@@ -1,0 +1,100 @@
+*{
+    padding:0;
+    margin:0;
+    font-family:'Segoe UI';
+}
+body{
+background-color:  #85b6b9;
+   font-size: 90%;
+   }
+  .TB{
+    margin: 10px;
+    text-align: center;
+  }
+  .TB input{
+    outline: none;
+    border: 1px solid #00000000;
+    border-radius: 10px;
+    height: 30px;
+    width: 300px;
+  }
+  .TB label{
+    color: #ffffff;
+    margin: 10px;
+  }
+  .heading h2{
+    text-align: center;
+    background-color: #185d6d;
+    color: aliceblue;
+  }
+  .Drop{
+    text-align: center;
+  }
+  .Drop select{
+    border: 1px solid #0000;
+    outline: none;
+    width:100px;
+    border-radius:10px;
+    font-size: 16px;
+  }
+  label{
+color: #ffffff;
+  }
+  .quan input{
+    outline: none;
+    border: 1px solid #0000;
+    border-radius: 5px;
+  }
+  .quan{
+    text-align: center;
+  }
+  .Submitbtn{
+    text-align: center;
+  margin-bottom:10px ;
+  }
+  .Submitbtn input{
+    border: 1px solid #0000;
+    border-radius: 10px;
+    height: 30px;
+    width: 300px;
+    background-color: #092930;
+    color: #ffffff;
+  }
+  .Submitbtn input:hover{
+    background-color: #6ebdcf;
+  }
+ .date{
+  text-align: center;
+  margin: 5px;
+ }
+ .date input{
+  outline: none;
+  border-radius: 10px;
+ }
+ .TBpannel{
+
+  background-color: #588d94;
+  border: 1px solid #000000;
+  border-radius: 10px;
+  height: 350px;
+  width: 350px;
+margin: 10px 100px 0px 400px;
+ }
+ .Grp{
+  background-color: #588d94;
+  border: 1px solid #000000;
+  border-radius: 10px;
+  height: 350px;
+  width: 350px;
+position: absolute;
+top: 84px;
+right:400px;
+ }
+ .heading p a{
+  color: aqua;
+  margin: 5px;
+ }
+ .heading a:hover{
+  color: #35aac4;
+  text-decoration: none;
+ }
